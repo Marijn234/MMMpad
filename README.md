@@ -1,3 +1,4 @@
 # MMMpad
 Macropad3x3 with oled and rotary encoder.
-![IMG_4600](https://github.com/user-attachments/assets/c5b2e8ad-1f7b-4bbb-9718-5b313f4fde7f)
+
+![IMG_4601](https://github.com/user-attachments/assets/f5411ec2-f647-4c95-af61-2bca4fb6bde0)
